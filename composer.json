@@ -1,0 +1,6 @@
+{
+    "require": {
+        "copyleaks/php-plagiarism-checker": "^3.2",
+        "rmccue/requests": "^2.0"
+    }
+}
